@@ -1,8 +1,5 @@
-# MDAF-Net
-Source code for MDAF-Net: a multi-scale dilated attention flow network for VAIN image segmentation.
+We appreciate your interest in MDAF-Net. The code is currently undergoing a major refactoring and cleanup to improve readability and usability for the community.
 
-This repository will host the official source code for MDAF-Net: a multi-scale dilated attention flow network for VAIN image segmentation.
+We are also integrating this work into a larger follow-up research project. As a result, the release of the source code has been temporarily delayed. We apologize for the inconvenience and will update this repository as soon as the refactoring is complete.
 
-The code will be made publicly available upon the official publication of our manuscript titled "A Novel Image Segmentation Network with Multi-scale and Flow-guided Attention for Early Screening of Vaginal Intraepithelial Neoplasia (VAIN)". This approach is taken to ensure that the released code is fully synchronized with the final, peer-reviewed version of our work and to protect intellectual property prior to formal dissemination.
-
-Thank you for your understanding and interest!
+Status: Code refactoring in progress...
